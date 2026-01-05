@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping bits", "Flipping b
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{29FD4075-ECF0-4D08-9B30-3D65F76F0111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FD4075-ECF0-4D08-9B30-3D65F76F0111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FD4075-ECF0-4D08-9B30-3D65F76F0111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FD4075-ECF0-4D08-9B30-3D65F76F0111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FD4075-ECF0-4D08-9B30-3D65F76F0111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

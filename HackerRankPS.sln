@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparse Arrays", "Sparse Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping bits", "Flipping bits\Flipping bits.csproj", "{9F110AD0-5DE6-4A43-B49C-89751CF0DB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9F110AD0-5DE6-4A43-B49C-89751CF0DB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F110AD0-5DE6-4A43-B49C-89751CF0DB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F110AD0-5DE6-4A43-B49C-89751CF0DB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F304A0A6-92EE-4EBE-AE05-5CF8FEC587F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
